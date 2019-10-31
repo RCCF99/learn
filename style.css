@@ -1,1 +1,32 @@
+body{
+    background-color: dimgray;
+    color: black;
+    width: 100%;
+  height: 1200px;
+  background-image: url('/81659701-a-woman-breaks-her-chains-as-the-links-turn-into-freedom-birds\ \(1\).jpg');
+  background-repeat: no-repeat; 
+  background-size: cover;
+  font-size: 20pt;
+}
+margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block
+  color: white;
+  text-align: left;
+  padding: 14px 16px;
+  text-decoration-line: underline;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
 
